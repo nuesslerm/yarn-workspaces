@@ -1,5 +1,1 @@
-const { ModuleKind } = require('typescript');
-
-module.exports = () => {
-  console.log('hello from common 12');
-};
+export const add = (a, b) => a + b;

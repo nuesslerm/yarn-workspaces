@@ -1,5 +1,8 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+
+import { add } from '@walnut/common';
 
 function App() {
   return (
@@ -18,6 +21,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <p>{add(1, 2)}</p>
     </div>
   );
 }
