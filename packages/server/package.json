@@ -1,6 +1,7 @@
 {
   "name": "@walnut/server",
   "version": "1.0.5",
+  "private": true,
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "license": "MIT",
