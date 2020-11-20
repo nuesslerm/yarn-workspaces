@@ -36,6 +36,7 @@
     ]
   },
   "devDependencies": {
+    "commitizen": "^4.2.2",
     "react-app-rewire-yarn-workspaces": "^1.0.3",
     "react-app-rewired": "^2.1.6"
   }
